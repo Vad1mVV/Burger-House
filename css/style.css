@@ -1,0 +1,20 @@
+
+/* Headre */
+
+
+
+/* Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Chivo&family=Montserrat:wght@700&display=swap');
+.ArvoBold {
+    font-family: 'Arvo', serif;
+    font-weight: bold;
+}
+.MontserratBold {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.ChivoReg {
+    font-family: 'Chivo', sans-serif;
+    font-weight: 400;
+}
