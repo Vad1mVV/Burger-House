@@ -1,7 +1,66 @@
 
 /* Headre */
 
+header {
+    background-image: url(../img/Rectangle.png);
+    padding-top: 50px;
+}
 
+.header__up {
+    display: flex;
+    justify-content: space-between;
+}
+
+.number {
+    display: flex;
+    
+}
+
+.menu__box {
+    display: flex;
+    list-style-type: none;
+}
+
+.menu__item {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+
+.menu__item:hover {
+    color: #5f5f5f;
+}
+
+.headre__border {
+    border: 1px dashed black; 
+    padding: 3px 10px;
+}
+
+.price {
+    font-size: 20px;
+    background-color: red;
+    border-radius: 50%;
+    width: 136px;
+    text-align: center;
+    padding: 10px;
+}
+
+.price__border {
+    border: 1px dashed black;
+    border-radius: 50%;
+}
+
+.price__border p {
+    margin: 0;
+}
+
+.price__big {
+    font-size: 55px;
+}
+
+.price__text {
+    font-size: 25px;
+}
 
 /* Fonts */
 
